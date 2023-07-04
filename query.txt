@@ -1,0 +1,1 @@
+SELECT empoly.eid, department.dept, empoly.ename FROM empoly INNER JOIN department ON empoly.eid=dep artment.eid;
